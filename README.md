@@ -10,5 +10,5 @@ S.N.	 COMPONENTS	       QUANTITY
 6)	   Resistor 10K	2	,
 7)	   Resistor 100ohm	1,
 8)    	Capacitor 10uF	1	,
-9)     	Connecting Wires	10,	
+9)    Connecting Wires	10,	
 10)   	Breadboard	1	
